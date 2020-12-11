@@ -1,1 +1,1 @@
-# GIT_TEST
+This is project is created for assessment purposes.
